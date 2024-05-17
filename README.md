@@ -46,23 +46,30 @@ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:54
 
 ## Pentaho Schemas
 **exercise 00**
+Load a CSV file into a database table
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex00.png)
 
 **exercise 01**
+Filter rows from a CSV file based on certain conditions
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex01.png)
 
 **exercise 02**
+Transform data from a CSV file
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex02.png)
 
 **exercise 03**
+Aggregate data from a CSV file 
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex03.png)
 
 **exercise 04**
+Split a CSV file content
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex04.png)
 
 **exercise 05**
+Merge two CSV file
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex05.png)
 
 **exercise 06**
+Clean data from a CSV file
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex06.png)
 
