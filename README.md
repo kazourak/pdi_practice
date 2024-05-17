@@ -19,7 +19,7 @@ sudo apt-get -y install libcanberra-gtk-module libcanberra-gtk3-module && \
 sudo apt-get -y autoremove
 ```
 
-- Download Pentaho https://drive.google.com/file/d/13z0THSSUiMZbwG0cJ6ylA1Si2OOMKEmg/view?usp=sharing
+- Download Pentaho https://drive.google.com/file/d/13z0THSSUiMZbwG0cJ6ylA1Si2OOMKEmg/view?usp=sharing ( faster to download ) or https://privatefilesbucket-community-edition.s3.us-west-2.amazonaws.com/9.4.0.0-343/ce/client-tools/pdi-ce-9.4.0.0-343.zip
 - `unzip` and start Pentaho
 ```bash
 ./data-integration/spoon.sh
