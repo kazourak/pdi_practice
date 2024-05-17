@@ -1,0 +1,324 @@
+﻿secteur;professions;professions_detaillees;annee;effectifs;professions_code
+Public;2 - Internes                                    ;2 - Internes              ;2004;19089;2
+Public;6 - Filière administrative                      ;6 - Filière administrative;2004;94815;6
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2005;9706;3
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2005;229294;4
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2005;203546;5
+Public;6 - Filière administrative                      ;6 - Filière administrative;2005;98759;6
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2006;76798;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2006;10074;3
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2006;232149;4
+Public;2 - Internes                                    ;2 - Internes              ;2007;21046;2
+Public;2 - Internes                                    ;2 - Internes              ;2008;21882;2
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2008;210579;5
+Public;7 - Autre personnel (soignants et non soignants);;2008;331608;7
+Public;2 - Internes                                    ;2 - Internes              ;2009;23589;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2009;238005;4
+Public;6 - Filière administrative                      ;6 - Filière administrative;2009;100959;6
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2010;81396;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2010;11352;3
+Public;6 - Filière administrative                      ;6 - Filière administrative;2010;102448;6
+Public;;72 - Autres non soignants ;2010;163582;
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2011;218389;5
+Public;;71 - Autres soignants     ;2011;170446;
+Public;2 - Internes                                    ;2 - Internes              ;2012;26152;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2012;250354;4
+Public;;71 - Autres soignants     ;2012;170182;
+Public;7 - Autre personnel (soignants et non soignants);;2012;336189;7
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2013;85892;1
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2013;254111;4
+Public;6 - Filière administrative                      ;6 - Filière administrative;2014;104310;6
+Public;;72 - Autres non soignants ;2014;168831;
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2015;86786;1
+Public;2 - Internes                                    ;2 - Internes              ;2015;30274;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2015;12692;3
+Public;6 - Filière administrative                      ;6 - Filière administrative;2015;104397;6
+Public;7 - Autre personnel (soignants et non soignants);;2015;338174;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2016;258815;4
+Public;6 - Filière administrative                      ;6 - Filière administrative;2016;103598;6
+Public;;72 - Autres non soignants ;2016;168261;
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2017;87746;1
+Public;2 - Internes                                    ;2 - Internes              ;2017;31532;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2017;258896;4
+Public;;71 - Autres soignants     ;2017;162265;
+Public;7 - Autre personnel (soignants et non soignants);;2017;330926;7
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2018;87911;1
+Public;;71 - Autres soignants     ;2018;157845;
+Public;6 - Filière administrative                      ;6 - Filière administrative;2018;103580;6
+Public;7 - Autre personnel (soignants et non soignants);;2018;326946;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2019;259297;4
+Public;7 - Autre personnel (soignants et non soignants);;2019;326490;7
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2020;13120;3
+Public;;72 - Autres non soignants ;2020;172111;
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2021;260742;4
+Public;6 - Filière administrative                      ;6 - Filière administrative;2021;108448;6
+Public;7 - Autre personnel (soignants et non soignants);;2021;336043;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2022;258058;4
+Public;;71 - Autres soignants     ;2022;159046;
+Public;7 - Autre personnel (soignants et non soignants);;2022;333097;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2003;13494;1
+Privé ;2 - Internes                                    ;2 - Internes              ;2003;1248;2
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2003;50556;5
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2004;67939;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2004;50894;5
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2005;3328;3
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2005;52337;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2005;35543;6
+Privé ;7 - Autre personnel (soignants et non soignants);;2005;89815;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2006;14565;1
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2006;54016;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2006;36024;6
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2007;14725;1
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2007;54741;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2007;36787;6
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2008;77442;4
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2009;15391;1
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2009;38101;6
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2010;82133;4
+Privé ;;72 - Autres non soignants ;2010;30337;
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2011;82754;4
+Privé ;;71 - Autres soignants     ;2011;60595;
+Privé ;2 - Internes                                    ;2 - Internes              ;2012;1873;2
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2012;4023;3
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2012;40475;6
+Privé ;7 - Autre personnel (soignants et non soignants);;2012;91424;7
+Privé ;;71 - Autres soignants     ;2013;61246;
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2013;40678;6
+Privé ;;72 - Autres non soignants ;2013;31066;
+Privé ;7 - Autre personnel (soignants et non soignants);;2013;92312;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2014;17141;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2014;3993;3
+Privé ;;72 - Autres non soignants ;2014;31736;
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2015;3953;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2015;89412;4
+Privé ;;71 - Autres soignants     ;2015;61571;
+Privé ;7 - Autre personnel (soignants et non soignants);;2015;93550;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2016;18196;1
+Privé ;;72 - Autres non soignants ;2016;32457;
+Privé ;7 - Autre personnel (soignants et non soignants);;2016;94646;7
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2017;3919;3
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2017;59899;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2017;42246;6
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2018;59980;5
+Privé ;;71 - Autres soignants     ;2018;60937;
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2018;41822;6
+Privé ;2 - Internes                                    ;2 - Internes              ;2019;2645;2
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2019;3767;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2019;91069;4
+Privé ;;71 - Autres soignants     ;2019;60581;
+Privé ;2 - Internes                                    ;2 - Internes              ;2020;2654;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2020;90379;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2020;58812;5
+Privé ;;72 - Autres non soignants ;2020;32309;
+Privé ;2 - Internes                                    ;2 - Internes              ;2021;2663;2
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2021;58723;5
+Privé ;;72 - Autres non soignants ;2021;33496;
+Privé ;7 - Autre personnel (soignants et non soignants);;2021;95062;7
+Public;2 - Internes                                    ;2 - Internes              ;2003;18183;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2003;9166;3
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2003;218711;4
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2003;197212;5
+Public;6 - Filière administrative                      ;6 - Filière administrative;2003;92219;6
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2004;75419;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2004;9421;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2004;201114;5
+Public;2 - Internes                                    ;2 - Internes              ;2005;19648;2
+Public;7 - Autre personnel (soignants et non soignants);;2005;335802;7
+Public;2 - Internes                                    ;2 - Internes              ;2006;20491;2
+Public;6 - Filière administrative                      ;6 - Filière administrative;2006;97749;6
+Public;7 - Autre personnel (soignants et non soignants);;2006;332518;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2007;236210;4
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2007;210591;5
+Public;6 - Filière administrative                      ;6 - Filière administrative;2007;99124;6
+Public;7 - Autre personnel (soignants et non soignants);;2007;335252;7
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2008;10647;3
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2009;81275;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2009;10915;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2009;209136;5
+Public;7 - Autre personnel (soignants et non soignants);;2009;327970;7
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2010;213814;5
+Public;;71 - Autres soignants     ;2010;170686;
+Public;7 - Autre personnel (soignants et non soignants);;2010;334268;7
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2011;82172;1
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2011;244983;4
+Public;;72 - Autres non soignants ;2011;164292;
+Public;7 - Autre personnel (soignants et non soignants);;2011;334738;7
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2012;12147;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2012;221108;5
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2013;222226;5
+Public;7 - Autre personnel (soignants et non soignants);;2013;340178;7
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2014;86311;1
+Public;2 - Internes                                    ;2 - Internes              ;2014;28719;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2014;256362;4
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2014;223678;5
+Public;7 - Autre personnel (soignants et non soignants);;2014;340820;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2015;257040;4
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2015;224188;5
+Public;;71 - Autres soignants     ;2015;169809;
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2016;86929;1
+Public;2 - Internes                                    ;2 - Internes              ;2016;30769;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2016;12676;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2016;223819;5
+Public;;72 - Autres non soignants ;2017;168661;
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2018;223854;5
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2019;89307;1
+Public;2 - Internes                                    ;2 - Internes              ;2019;33279;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2019;13022;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2019;223862;5
+Public;;71 - Autres soignants     ;2019;157268;
+Public;6 - Filière administrative                      ;6 - Filière administrative;2019;103502;6
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2020;91341;1
+Public;2 - Internes                                    ;2 - Internes              ;2020;34900;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2020;262889;4
+Public;;71 - Autres soignants     ;2020;161586;
+Public;6 - Filière administrative                      ;6 - Filière administrative;2020;105559;6
+Public;7 - Autre personnel (soignants et non soignants);;2020;333697;7
+Public;2 - Internes                                    ;2 - Internes              ;2021;36520;2
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2021;227661;5
+Public;;71 - Autres soignants     ;2021;161420;
+Public;;72 - Autres non soignants ;2021;174623;
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2022;93198;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2022;13206;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2003;66636;4
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2003;34836;6
+Privé ;7 - Autre personnel (soignants et non soignants);;2003;90368;7
+Privé ;7 - Autre personnel (soignants et non soignants);;2004;90275;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2005;14214;1
+Privé ;2 - Internes                                    ;2 - Internes              ;2005;1233;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2005;70574;4
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2006;3538;3
+Privé ;7 - Autre personnel (soignants et non soignants);;2006;89158;7
+Privé ;2 - Internes                                    ;2 - Internes              ;2007;1337;2
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2007;3451;3
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2008;15085;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2008;3627;3
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2008;56430;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2008;37251;6
+Privé ;2 - Internes                                    ;2 - Internes              ;2009;1477;2
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2009;57983;5
+Privé ;7 - Autre personnel (soignants et non soignants);;2009;90477;7
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2010;3988;3
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2010;58953;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2010;39039;6
+Privé ;2 - Internes                                    ;2 - Internes              ;2011;1678;2
+Privé ;7 - Autre personnel (soignants et non soignants);;2011;90870;7
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2012;85426;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2012;59476;5
+Privé ;;72 - Autres non soignants ;2012;31110;
+Privé ;2 - Internes                                    ;2 - Internes              ;2013;2206;2
+Privé ;2 - Internes                                    ;2 - Internes              ;2014;2365;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2014;88491;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2014;60620;5
+Privé ;;71 - Autres soignants     ;2014;61387;
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2014;41268;6
+Privé ;7 - Autre personnel (soignants et non soignants);;2014;93123;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2015;17469;1
+Privé ;;72 - Autres non soignants ;2015;31979;
+Privé ;2 - Internes                                    ;2 - Internes              ;2016;2512;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2016;91091;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2016;61260;5
+Privé ;;71 - Autres soignants     ;2017;62649;
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2018;18601;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2018;3838;3
+Privé ;;72 - Autres non soignants ;2018;31220;
+Privé ;7 - Autre personnel (soignants et non soignants);;2018;92157;7
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2019;59429;5
+Privé ;;72 - Autres non soignants ;2019;31964;
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2020;19386;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2020;3603;3
+Privé ;7 - Autre personnel (soignants et non soignants);;2020;92770;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2021;19781;1
+Privé ;;71 - Autres soignants     ;2021;61566;
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2003;74626;1
+Public;7 - Autre personnel (soignants et non soignants);;2003;327777;7
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2004;225243;4
+Public;7 - Autre personnel (soignants et non soignants);;2004;333183;7
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2005;76552;1
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2006;204733;5
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2007;79533;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2007;10454;3
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2008;79801;1
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2008;236686;4
+Public;6 - Filière administrative                      ;6 - Filière administrative;2008;100415;6
+Public;2 - Internes                                    ;2 - Internes              ;2010;24092;2
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2010;241132;4
+Public;2 - Internes                                    ;2 - Internes              ;2011;25094;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2011;12005;3
+Public;6 - Filière administrative                      ;6 - Filière administrative;2011;104144;6
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2012;84393;1
+Public;6 - Filière administrative                      ;6 - Filière administrative;2012;104236;6
+Public;;72 - Autres non soignants ;2012;166007;
+Public;2 - Internes                                    ;2 - Internes              ;2013;27422;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2013;12421;3
+Public;;71 - Autres soignants     ;2013;171925;
+Public;6 - Filière administrative                      ;6 - Filière administrative;2013;103971;6
+Public;;72 - Autres non soignants ;2013;168253;
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2014;12629;3
+Public;;71 - Autres soignants     ;2014;171989;
+Public;;72 - Autres non soignants ;2015;168365;
+Public;;71 - Autres soignants     ;2016;167161;
+Public;7 - Autre personnel (soignants et non soignants);;2016;335422;7
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2017;12797;3
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2017;224376;5
+Public;6 - Filière administrative                      ;6 - Filière administrative;2017;103524;6
+Public;2 - Internes                                    ;2 - Internes              ;2018;32284;2
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2018;12892;3
+Public;4 - Infirmiers                                  ;4 - Infirmiers            ;2018;259159;4
+Public;;72 - Autres non soignants ;2018;169101;
+Public;;72 - Autres non soignants ;2019;169222;
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2020;227187;5
+Public;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2021;92366;1
+Public;3 - Sages-femmes                                ;3 - Sages-femmes          ;2021;13141;3
+Public;2 - Internes                                    ;2 - Internes              ;2022;38213;2
+Public;5 - Aides-soignants                             ;5 - Aides-soignants       ;2022;224117;5
+Public;6 - Filière administrative                      ;6 - Filière administrative;2022;113328;6
+Public;;72 - Autres non soignants ;2022;174051;
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2003;3331;3
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2004;13986;1
+Privé ;2 - Internes                                    ;2 - Internes              ;2004;1206;2
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2004;3390;3
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2004;35209;6
+Privé ;2 - Internes                                    ;2 - Internes              ;2006;1284;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2006;73545;4
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2007;75399;4
+Privé ;7 - Autre personnel (soignants et non soignants);;2007;89113;7
+Privé ;2 - Internes                                    ;2 - Internes              ;2008;1379;2
+Privé ;7 - Autre personnel (soignants et non soignants);;2008;89389;7
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2009;3839;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2009;80615;4
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2010;15828;1
+Privé ;2 - Internes                                    ;2 - Internes              ;2010;1553;2
+Privé ;;71 - Autres soignants     ;2010;60481;
+Privé ;7 - Autre personnel (soignants et non soignants);;2010;90818;7
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2011;16334;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2011;4060;3
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2011;59707;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2011;39516;6
+Privé ;;72 - Autres non soignants ;2011;30275;
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2012;16583;1
+Privé ;;71 - Autres soignants     ;2012;60314;
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2013;16726;1
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2013;3977;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2013;86945;4
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2013;60268;5
+Privé ;2 - Internes                                    ;2 - Internes              ;2015;2434;2
+Privé ;5 - Aides-soignants                             ;5 - Aides-soignants       ;2015;60648;5
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2015;41287;6
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2016;3979;3
+Privé ;;71 - Autres soignants     ;2016;62189;
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2016;42100;6
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2017;18323;1
+Privé ;2 - Internes                                    ;2 - Internes              ;2017;2570;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2017;90866;4
+Privé ;;72 - Autres non soignants ;2017;30966;
+Privé ;7 - Autre personnel (soignants et non soignants);;2017;93615;7
+Privé ;2 - Internes                                    ;2 - Internes              ;2018;2599;2
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2018;90750;4
+Privé ;1 - Médecins et assimilés                       ;1 - Médecins et assimilés ;2019;18973;1
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2019;41789;6
+Privé ;7 - Autre personnel (soignants et non soignants);;2019;92545;7
+Privé ;;71 - Autres soignants     ;2020;60461;
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2020;41522;6
+Privé ;3 - Sages-femmes                                ;3 - Sages-femmes          ;2021;3569;3
+Privé ;4 - Infirmiers                                  ;4 - Infirmiers            ;2021;89546;4
+Privé ;6 - Filière administrative                      ;6 - Filière administrative;2021;42815;6

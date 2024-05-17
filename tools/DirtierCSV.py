@@ -21,8 +21,8 @@ def modify_csv(input_file, output_file, deletion_rate, duplication_rate):
                 writer.writerow(row)
             writer.writerow(modified_row)
 
-input_file = 'FakeName_50K.csv'
-output_file = 'dirty' + input_file
+input_file = 'data/FakeName_50K.csv'
+output_file = 'dirtyFakeName_50K.csv'
 deletion_rate = 0.2
 duplication_rate = 0.1
 

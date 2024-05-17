@@ -464,7 +464,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>${Internal.Entry.Current.Directory}/effectifs-salaries-hospitaliers-series-longues.csv</filename>
+    <filename>${Internal.Entry.Current.Directory}/data/effectifs-salaries-hospitaliers-series-longues.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -618,7 +618,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>${Internal.Entry.Current.Directory}/output/ex_01_public</name>
+      <name>${Internal.Entry.Current.Directory}/output/ex01_public</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
@@ -675,7 +675,7 @@
     <fileNameField/>
     <create_parent_folder>Y</create_parent_folder>
     <file>
-      <name>${Internal.Entry.Current.Directory}/output/ex_01_privee</name>
+      <name>${Internal.Entry.Current.Directory}/output/ex01_privee</name>
       <servlet_output>N</servlet_output>
       <do_not_open_new_file_init>N</do_not_open_new_file_init>
       <extention>csv</extention>
