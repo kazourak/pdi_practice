@@ -38,30 +38,30 @@ sudo apt install python3
 docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
 ```
 
-## Exercices requirements
+## exercises requirements
 - **ex00** *req:* PostgreSQL database
 - **ex05** *req:* `ex04_p1.csv` and `ex04_p2.csv` file. Run ex04 to get it
 - **ex06** *req:* The dirtyFakeName_50K.csv. run `just dirty` to make a another dirty version of FakeName_50K.csv
 
 ## Pentaho Schemas
-**Exercice 00**
+**exercise 00**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex00.png)
 
-**Exercice 01**
+**exercise 01**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex01.png)
 
-**Exercice 02**
+**exercise 02**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex02.png)
 
-**Exercice 03**
+**exercise 03**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex03.png)
 
-**Exercice 04**
+**exercise 04**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex04.png)
 
-**Exercice 05**
+**exercise 05**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex05.png)
 
-**Exercice 06**
+**exercise 06**
 ![](https://github.com/kazourak/pdi_practice/blob/main/img/ex06.png)
 
